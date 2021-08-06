@@ -1,8 +1,7 @@
 import os
-import subprocess
 import unittest
 
-from calculate_avg import process_csv
+from session1.calculate_avg import process_csv
 
 process_csv()
 
