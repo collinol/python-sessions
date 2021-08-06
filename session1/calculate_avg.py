@@ -30,7 +30,7 @@ def process_csv(
     """
     # csv_file = open('values.csv', 'r')
     read_counts = []
-    with open('../values.csv', 'r') as csv_file:
+    with open('values.csv', 'r') as csv_file:
         headers = csv_file.readline()
         for line in csv_file.readlines():
             read_counts.append(int(line.split(',')[1]))
