@@ -1,0 +1,5 @@
+https://docs.sqlalchemy.org/en/14/core/engines.html
+https://docs.sqlalchemy.org/en/14/orm/mapping_columns.html
+https://www.fullstackpython.com/s
+qqlalchemy-model-examples.html
+
